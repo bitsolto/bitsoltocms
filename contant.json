@@ -8,5 +8,16 @@
     {
       "custom-list-item": "un, dous, tres ..."
     }
-  ]
+  ],
+  "blog": [
+    {
+      "title": "Sinxelo no quere decir simple",
+      "text": "Ou si. Máis hoxe non! FrontAidCMS é un modo sinxelo de publicar os teus contidos, pero non é simple xa que de feito integra moitos elementos de sobre-enxeñaría que seguramente, unha vez que consigas configuralos axeitadamente te facilitaran o traballo de publicación.\n\nAla imos!"
+    }
+  ],
+  "name": "bitsolto",
+  "index": {
+    "title": "Este ´o indice",
+    "text": "Benvidos a bitsolto, unha colección de textos varios"
+  }
 }
